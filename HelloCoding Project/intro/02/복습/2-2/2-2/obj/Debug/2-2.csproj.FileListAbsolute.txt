@@ -1,0 +1,6 @@
+C:\Project\intro\02\복습\2-2\2-2\bin\Debug\2-2.exe.config
+C:\Project\intro\02\복습\2-2\2-2\bin\Debug\2-2.exe
+C:\Project\intro\02\복습\2-2\2-2\bin\Debug\2-2.pdb
+C:\Project\intro\02\복습\2-2\2-2\obj\Debug\2-2.csproj.CoreCompileInputs.cache
+C:\Project\intro\02\복습\2-2\2-2\obj\Debug\2-2.exe
+C:\Project\intro\02\복습\2-2\2-2\obj\Debug\2-2.pdb

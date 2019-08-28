@@ -1,0 +1,7 @@
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe.config
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.pdb
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csprojResolveAssemblyReference.cache
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.CoreCompileInputs.cache
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.exe
+C:\Project\intro\08\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.pdb

@@ -1,0 +1,7 @@
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\bin\Debug\9-2.exe.config
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\bin\Debug\9-2.exe
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\bin\Debug\9-2.pdb
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\obj\Debug\9-2.csprojResolveAssemblyReference.cache
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\obj\Debug\9-2.csproj.CoreCompileInputs.cache
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\obj\Debug\9-2.exe
+C:\Project\intro\09\복습\심화\9-2(바른 예시)\9-2\9-2\obj\Debug\9-2.pdb

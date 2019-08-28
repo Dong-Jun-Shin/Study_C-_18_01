@@ -1,0 +1,6 @@
+C:\Project\intro\04\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Project\intro\04\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Project\intro\04\Variable\Variable\bin\Debug\Variable.exe
+C:\Project\intro\04\Variable\Variable\bin\Debug\Variable.pdb
+C:\Project\intro\04\Variable\Variable\obj\Debug\Variable.exe
+C:\Project\intro\04\Variable\Variable\obj\Debug\Variable.pdb

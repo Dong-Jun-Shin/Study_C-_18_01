@@ -1,0 +1,6 @@
+C:\Project\intro\04\복습\4-2\4-2\bin\Debug\4-2.exe.config
+C:\Project\intro\04\복습\4-2\4-2\bin\Debug\4-2.exe
+C:\Project\intro\04\복습\4-2\4-2\bin\Debug\4-2.pdb
+C:\Project\intro\04\복습\4-2\4-2\obj\Debug\4-2.csproj.CoreCompileInputs.cache
+C:\Project\intro\04\복습\4-2\4-2\obj\Debug\4-2.exe
+C:\Project\intro\04\복습\4-2\4-2\obj\Debug\4-2.pdb

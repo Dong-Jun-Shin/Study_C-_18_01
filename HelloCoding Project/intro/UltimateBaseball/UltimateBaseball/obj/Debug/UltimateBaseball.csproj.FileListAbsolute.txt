@@ -1,0 +1,13 @@
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Project\intro\UltimateBaseball\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Project\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Project\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Project\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Project\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Project\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Project\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Project\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csprojResolveAssemblyReference.cache

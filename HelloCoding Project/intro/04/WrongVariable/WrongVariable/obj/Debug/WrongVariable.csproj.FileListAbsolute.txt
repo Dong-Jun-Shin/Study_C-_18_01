@@ -1,0 +1,1 @@
+C:\Project\intro\04\WrongVariable\WrongVariable\obj\Debug\WrongVariable.csproj.CoreCompileInputs.cache

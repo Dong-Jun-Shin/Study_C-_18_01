@@ -1,0 +1,7 @@
+C:\Project\intro\04\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Project\intro\04\Operators\Operators\bin\Debug\Operators.exe
+C:\Project\intro\04\Operators\Operators\bin\Debug\Operators.pdb
+C:\Project\intro\04\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Project\intro\04\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Project\intro\04\Operators\Operators\obj\Debug\Operators.exe
+C:\Project\intro\04\Operators\Operators\obj\Debug\Operators.pdb

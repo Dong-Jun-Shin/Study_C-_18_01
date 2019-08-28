@@ -1,0 +1,6 @@
+C:\Project\intro\05\복습\심화\5-1\5-1\bin\Debug\5-1.exe.config
+C:\Project\intro\05\복습\심화\5-1\5-1\bin\Debug\5-1.exe
+C:\Project\intro\05\복습\심화\5-1\5-1\bin\Debug\5-1.pdb
+C:\Project\intro\05\복습\심화\5-1\5-1\obj\Debug\5-1.csproj.CoreCompileInputs.cache
+C:\Project\intro\05\복습\심화\5-1\5-1\obj\Debug\5-1.exe
+C:\Project\intro\05\복습\심화\5-1\5-1\obj\Debug\5-1.pdb

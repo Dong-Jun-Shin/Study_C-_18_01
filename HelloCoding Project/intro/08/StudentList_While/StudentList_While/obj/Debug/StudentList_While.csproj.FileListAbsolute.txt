@@ -1,0 +1,7 @@
+C:\Project\intro\08\StudentList_While\StudentList_While\bin\Debug\StudentList_While.exe.config
+C:\Project\intro\08\StudentList_While\StudentList_While\bin\Debug\StudentList_While.exe
+C:\Project\intro\08\StudentList_While\StudentList_While\bin\Debug\StudentList_While.pdb
+C:\Project\intro\08\StudentList_While\StudentList_While\obj\Debug\StudentList_While.csprojResolveAssemblyReference.cache
+C:\Project\intro\08\StudentList_While\StudentList_While\obj\Debug\StudentList_While.csproj.CoreCompileInputs.cache
+C:\Project\intro\08\StudentList_While\StudentList_While\obj\Debug\StudentList_While.exe
+C:\Project\intro\08\StudentList_While\StudentList_While\obj\Debug\StudentList_While.pdb

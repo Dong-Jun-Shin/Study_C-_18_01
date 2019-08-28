@@ -1,0 +1,7 @@
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csprojResolveAssemblyReference.cache
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Project\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

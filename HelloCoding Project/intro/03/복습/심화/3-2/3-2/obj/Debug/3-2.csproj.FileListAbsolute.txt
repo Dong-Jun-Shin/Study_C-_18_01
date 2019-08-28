@@ -1,0 +1,6 @@
+C:\Project\intro\03\복습\심화\3-2\3-2\bin\Debug\3-2.exe.config
+C:\Project\intro\03\복습\심화\3-2\3-2\bin\Debug\3-2.exe
+C:\Project\intro\03\복습\심화\3-2\3-2\bin\Debug\3-2.pdb
+C:\Project\intro\03\복습\심화\3-2\3-2\obj\Debug\3-2.csproj.CoreCompileInputs.cache
+C:\Project\intro\03\복습\심화\3-2\3-2\obj\Debug\3-2.exe
+C:\Project\intro\03\복습\심화\3-2\3-2\obj\Debug\3-2.pdb

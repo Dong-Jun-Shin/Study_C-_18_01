@@ -1,0 +1,7 @@
+C:\Project\intro\07\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Project\intro\07\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Project\intro\07\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Project\intro\07\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Project\intro\07\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Project\intro\07\StudentList\StudentList\obj\Debug\StudentList.pdb
+C:\Project\intro\07\StudentList\StudentList\obj\Debug\StudentList.csprojResolveAssemblyReference.cache

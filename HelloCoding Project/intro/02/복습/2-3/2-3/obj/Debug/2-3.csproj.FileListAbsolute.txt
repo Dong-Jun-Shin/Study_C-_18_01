@@ -1,0 +1,6 @@
+C:\Project\intro\02\복습\2-3\2-3\bin\Debug\2-3.exe.config
+C:\Project\intro\02\복습\2-3\2-3\bin\Debug\2-3.exe
+C:\Project\intro\02\복습\2-3\2-3\bin\Debug\2-3.pdb
+C:\Project\intro\02\복습\2-3\2-3\obj\Debug\2-3.csproj.CoreCompileInputs.cache
+C:\Project\intro\02\복습\2-3\2-3\obj\Debug\2-3.exe
+C:\Project\intro\02\복습\2-3\2-3\obj\Debug\2-3.pdb

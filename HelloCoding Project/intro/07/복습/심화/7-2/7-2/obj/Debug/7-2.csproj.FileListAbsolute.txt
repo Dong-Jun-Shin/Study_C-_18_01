@@ -1,0 +1,7 @@
+C:\Project\intro\07\복습\심화\7-2\7-2\bin\Debug\7-2.exe.config
+C:\Project\intro\07\복습\심화\7-2\7-2\bin\Debug\7-2.exe
+C:\Project\intro\07\복습\심화\7-2\7-2\bin\Debug\7-2.pdb
+C:\Project\intro\07\복습\심화\7-2\7-2\obj\Debug\7-2.csprojResolveAssemblyReference.cache
+C:\Project\intro\07\복습\심화\7-2\7-2\obj\Debug\7-2.csproj.CoreCompileInputs.cache
+C:\Project\intro\07\복습\심화\7-2\7-2\obj\Debug\7-2.exe
+C:\Project\intro\07\복습\심화\7-2\7-2\obj\Debug\7-2.pdb
